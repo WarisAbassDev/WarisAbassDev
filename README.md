@@ -5,7 +5,7 @@
 
 - 🔭 I am just a Student
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play Cricket
 
 ### Connect with me:
