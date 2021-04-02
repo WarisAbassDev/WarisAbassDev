@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-<img align="left" alt="WarisAbass | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/warisabassreshi"/>
-<img align="left" alt="WarisAbass | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="https://www.instagram.com/warisabasss" />
+<a href="https://twitter.com/warisabassreshi"><img align="left" alt="WarisAbass | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a>
+<a href="https://www.instagram.com/warisabasss"> <img align="left" alt="WarisAbass | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a>
 
 <br />
 
